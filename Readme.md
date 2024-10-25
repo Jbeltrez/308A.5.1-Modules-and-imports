@@ -9,6 +9,6 @@ On a bigger project, implementing this tool will prove to be more valuable in or
 
 ## Screenshots
 
-![App Screenshot](./index js scc.png)
-![App Screenshot](./ss main.js 308A5.png)
+![App Screenshot]('./index js scc.png')
+![App Screenshot]('./ss main.js 308A5.png')
 
